@@ -1,0 +1,21 @@
+Hydrological models are simplied, conceptual representation of a part of a
+hydrological cycle. They are primary used for hydrologic prediction and for
+understanding hydrologic processes.
+As the temperature increases globally due to global warming the chances
+for extreme events increases.Every year number of floods hit different parts
+of the world due to extreme weather conditions (Heavy Precipitation, Hur-
+ricane). This extreme weather conditions has forced scientists to develop
+different hydrology models to predict extreme events before time.The mod-
+els developed by scientists help us to
+ Analyze the fooding problems in developed watersheds
+ It also helps to find the change in magnitude of discharge, stage, or
+volume to the probability or exceedance.
+ Increase in flood damage in the watershed as a result of the development
+of open area.
+The software tool used for developing the hydrological models is ARCGIS
+with HEC-GEOHMS and HEC-HMS extensions [Mahmood et al., 2016]
+[Mahmood and Jia, 2016]. But these software tools are commerical (Pro-
+prietary) charging alot of money for puschasing them. 
+In this project I will be designing an automated application(Desktop/Web Based) for developing hydro-
+logical models with just few clicks. This project will helps us in saving our
+time and resources while doing hydrological modelling.
